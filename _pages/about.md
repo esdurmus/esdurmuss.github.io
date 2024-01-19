@@ -6,7 +6,7 @@ subtitle: <a href='https://www.anthropic.com'>Anthropic</a>
 
 profile:
   align: right
-  image: esin.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
